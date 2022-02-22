@@ -23,5 +23,6 @@ spec:
         name: stable
         namespace: flux-system
       interval: 1m
-  # values:
-  
+  values:
+    replicaCount: 5
+ 
